@@ -115,4 +115,15 @@ button[type="reset"]:hover{
     color: #ffffff;
 }
 
+@media (max-width: 768px){
+    button{
+        color: black;
+    }
+}
+
+@media (max-width: 480px){
+    button{
+        color: black;
+    }
+}
 
